@@ -16,7 +16,6 @@ el servicio **Atención al empelado** y hacer clic en el icono de la Categoría 
 
 ![]({{ site.baseurl }}/styleguide/images/01f55473111f3f84295d81ac192ce5ca.png)
 
-
 ![]({{ site.baseurl }}/styleguide/images/08a08ce92f4389f856c463d5620f8c86.png)
 
 Aparecerá el enlace que se debe enviar a los usuarios.
