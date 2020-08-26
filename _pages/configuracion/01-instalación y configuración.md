@@ -11,8 +11,7 @@ Se debe descargar de la ruta
 >    
 
 Después de descargado, descomprima el Archivo .zip y ejecute el instalador llamado ArandaEmergencyReport.exe , se recomienda ejecutar como Administrador. 
-
-   
+ 
 Aparecerá la siguiente ventana donde debe hacer clic en el botón **Cargar Proyecto**:
 
 ![]({{ site.baseurl }}/styleguide/images/2eab7834ccec257804e427734bd4b69f.png)
@@ -21,7 +20,6 @@ El instalador le pedirá los datos de conexión a la BD de Aranda ASDK donde se 
 
 ![]({{ site.baseurl }}/styleguide/images/3c1e09cc50bbab2752fa3510d3c97987.png)
   
-
 Luego de diligenciar los datos, verifique que estos sean correctos haciendo clic en el botón **Probar**. 
 
 ![]({{ site.baseurl }}/styleguide/images/007a94ece923e8de82b344ac06aac4f5.png)
@@ -38,7 +36,5 @@ ejecución ha terminado. Haga clic en **OK**. 
 Luego de finalizada la ejecución del instalador, diríjase a la BASDK y valide que se haya creado el proyecto llamado “Bienestar”.
 
 ![]({{ site.baseurl }}/styleguide/images/b9aae295d17422b3351d9163dc7e34bf.png)
-
-  
 
 Una vez creado el proyecto “Bienestar”, antes de activarlo es necesario hacer las siguientes configuraciones: 
