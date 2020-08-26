@@ -3,6 +3,8 @@ title: Procedimiento de instalación
 chapter: "configuracion"
 ---
 
+### Proceso para la instalación
+
 Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda.
 Se debe descargar de la ruta
 
