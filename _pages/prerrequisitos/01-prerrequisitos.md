@@ -3,6 +3,8 @@ title: Requisitos
 chapter: "prerrequisitos"
 ---
 
+### Información general
+
 - Tener ya una implementación de Aranda en BD SQL**. 
 
 - Tener la BD Aranda actualizada a la última versión (versión mínima 8.0.106)**
