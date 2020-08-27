@@ -15,19 +15,19 @@ dirigirse a la consola de usuario, ingresar al proyecto “Bienestar”, selecci
 el servicio **Atención al empelado** y hacer clic en el icono de la Categoría “Estado de salud”.
 
 ![]({{ site.baseurl }}/assets/images/01f55473111f3f84295d81ac192ce5ca.png)
-
+---
 ![]({{ site.baseurl }}/assets/images/08a08ce92f4389f856c463d5620f8c86.png)
-
+---
 Aparecerá el enlace que se debe enviar a los usuarios.
 
 ![]({{ site.baseurl }}/assets/images/28586f630aca5e8839d1ce9bc10227bd.png)
-
+---
 El usuario solo tendrá que copiar y pegar el enlace en su explorador web y este
 lo llevará directamente al formulario que debe diligenciar (previo inicio de
 sesión):
 
 ![]({{ site.baseurl }}/assets/images/cfaa80f6d5779d220d558b9c7b8d2966.png)
-
+---
 Los campos encerrados con amarillo son los pasos que el usuario está omitiendo
 para la creación del caso.
 
