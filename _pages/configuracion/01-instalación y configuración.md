@@ -9,7 +9,6 @@ Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda.
 Se debe descargar de la ruta
 
     <http://temp.arandasoft.com/kb/temp/data/COVID/Release6.zip>  
-
 >    
 
 Después de descargado, descomprima el Archivo .zip y ejecute el instalador llamado ArandaEmergencyReport.exe , se recomienda ejecutar como Administrador. 
