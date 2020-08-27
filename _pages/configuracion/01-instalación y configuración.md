@@ -20,7 +20,7 @@ Aparecerá la siguiente ventana donde debe hacer clic en el botón **Cargar Proy
 El instalador le pedirá los datos de conexión a la BD de Aranda ASDK donde se instalará el nuevo proyecto. 
 
 ![]({{ site.baseurl }}/styleguide/images/3c1e09cc50bbab2752fa3510d3c97987.png)
-  
+
 Luego de diligenciar los datos, verifique que estos sean correctos haciendo clic en el botón **Probar**. 
 
 ![]({{ site.baseurl }}/styleguide/images/007a94ece923e8de82b344ac06aac4f5.png)
