@@ -16,14 +16,15 @@ chapter: "configuracion"
 5. Crear de Reglas**
 
 6. Verificar que el proyecto esté activo**
+
 <br>
 <br>
 
-> Nota: el proyecto está configurado por defecto para que los usuarios no vean
-> las solicitudes creadas en la consola de usuario. Si desea que activar esta
-> funcionalidad diríjase a **Blogik consola de usuario \> Creación de casos**
-> y en la opción **Visualizar** seleccione **Requerimientos**.
+Nota: el proyecto está configurado por defecto para que los usuarios no vean
+las solicitudes creadas en la consola de usuario. Si desea que activar esta
+funcionalidad diríjase a **Blogik consola de usuario \> Creación de casos**
+y en la opción **Visualizar** seleccione **Requerimientos**.
 
-> Para las configuraciones anteriores se puede visualizar el Manual de Aranda
-> Service Desk publicado en
-> <https://arandasoft.com/manuals/wp-content/uploads/2020/03/manual-consola-blogik-es-v6.pdf>
+Para las configuraciones anteriores se puede visualizar el Manual de Aranda
+Service Desk publicado en
+<https://arandasoft.com/manuals/wp-content/uploads/2020/03/manual-consola-blogik-es-v6.pdf>
